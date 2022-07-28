@@ -15,8 +15,6 @@ You can check out here: [Digital Marketing Home By Hitesh](https://marketing-hom
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52c07360-f1a3-4a21-aed5-adffa78d899f/deploy-status)](https://app.netlify.com/sites/marketing-home-page-by-hitesh/deploys)
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/45a8508a-78a9-48a6-9c43-c35346702f2f/deploy-status)](https://app.netlify.com/sites/crupto-landing-by-hitesh/deploys)
-
 ## What i have learned from this project
 
     - In this project I have learned how to use HTML and css to build templates.
